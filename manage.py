@@ -6,7 +6,6 @@ from flask_migrate import Migrate,MigrateCommand
 
 
 #Creating app instance
-# app = create_app('production')
 
 app = create_app('production')
 
