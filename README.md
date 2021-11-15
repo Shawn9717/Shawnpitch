@@ -32,6 +32,7 @@ The users will submit their one minute pitches and other users will vote on them
 
 - Users can submit a pitch in any category. 
 
+## [Live link]( https://okwonkwopitches.herokuapp.com/)
 
 # Prerequisites
 
