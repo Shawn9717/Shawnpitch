@@ -1,0 +1,17 @@
+h1{
+
+  text-align: center;
+  text-decoration-color: white;
+  font: bold italic 2em/1em "Times New Roman", "MS Serif", "New York", serif;
+  margin: 0;
+  padding: 0;
+  color: #5a5102;
+  border-top: solid #5a5102 medium;
+  border-bottom: dotted #5a5102 thin;
+  width: 600px;
+
+
+}
+body{
+  background-color: cornflowerblue;
+}
